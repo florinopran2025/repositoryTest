@@ -3,6 +3,7 @@
 class Table: 
     # this is the change i want to see in github
     #after that, i will revert it using git reset
+    # this is a new change
 
     def __init__(self):
         # column is ["A","B","C","D","E","F","G","H"] (left -> right)
