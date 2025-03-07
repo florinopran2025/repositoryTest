@@ -1,0 +1,19 @@
+englishDict=1=Display contacts (local)
+englishDict=2=Search contact (local)
+englishDict=3=Sort contacts (local)
+englishDict=4=Add contacts (local)
+englishDict=5=Save contacts (in cloud)
+englishDict=6=Load contacts (in cloud)
+englishDict=7=Afiseaza in romana
+englishDict=8=About phoneBook App
+englishDict=0=Exit
+
+romanianDict=1=Afiseaza contacte (local)
+romanianDict=2=Cauta contact (local)
+romanianDict=3=Sorteaza contacte (local)
+romanianDict=4=Adauga contact (local)
+romanianDict=5=Salveaza contacte (in cloud)
+romanianDict=6=Incarca contacte (in cloud)
+romanianDict=7=Switch to english
+englishDict=8=Despre aplicatia phoneBook
+romanianDict=0=Iesire
